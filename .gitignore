@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+
+# Private / personal submission files
+[Full Stack Developer] AI Interview Handbook FT (Updated as of Febuary 2026).pdf
+INTERVIEW_NOTES.md
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# TypeScript
+*.tsbuildinfo
